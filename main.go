@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"sreamBuf/streamBuf"
+	"utils/streamBuf"
 )
 
 func main() {
